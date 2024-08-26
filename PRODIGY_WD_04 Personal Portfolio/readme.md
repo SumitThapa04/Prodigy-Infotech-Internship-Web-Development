@@ -38,7 +38,7 @@ Includes a hover effect that changes the color and adds an animated underline to
 ### Dark Theme with Accent Colors: 
 Utilizes a dark color scheme with bright accent colors for a modern look, enhancing visual appeal and readability.
 
-#### SCREENSHOT OF WEBSITE
+#### SCREENSHOT OF WEBSITE 
 
 ![1](https://github.com/user-attachments/assets/18108d49-b303-4e53-9827-6de48b1fbf85)
 ![2](https://github.com/user-attachments/assets/5aa64dd6-2a13-429f-978c-98cbd6be5c9c)

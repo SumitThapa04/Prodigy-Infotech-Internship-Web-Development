@@ -4,7 +4,7 @@
 
 #### PAGE NAME : WeatherAPP
 
-#### WEBSITE: [https://portfolioxo.pages.dev/](https://portfolioxo.pages.dev/)
+#### WEBSITE: :[https://weatherxo.pages.dev/](https://weatherxo.pages.dev/)
 
 ## Summary :
 This weather app provides a clean, modern interface for users to search and view weather information for any city. It displays current weather conditions, including temperature, humidity, and wind speed, along with a 5-day forecast. The app features a responsive design with interactive elements and a visually appealing layout.

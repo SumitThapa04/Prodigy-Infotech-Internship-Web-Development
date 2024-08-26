@@ -36,7 +36,7 @@ WEBSITE:[https://portfolioxo.pages.dev/](https://portfolioxo.pages.dev/)
 
 TASK 5 : WeatherAPP
 
-WEBSITE:WEBSITE:[https://weatherxo.pages.dev/](https://weatherxo.pages.dev/)
+WEBSITE:[https://weatherxo.pages.dev/](https://weatherxo.pages.dev/)
 
 ![1](https://github.com/user-attachments/assets/b2b9dab3-8dab-4499-a867-29fe16d601a6)
 

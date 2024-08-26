@@ -6,7 +6,7 @@ LANGUAGES : HTML,CSS,JAVASCRIPT
 
 OFFER LETTER:-
 
-![Offer Letter](https://github.com/user-attachments/assets/e5ee8501-9299-4478-b3f0-d762c22bfd4f)
+![Offer Letter_page-0001](https://github.com/user-attachments/assets/3118f211-7667-4606-9a39-de921730e9d2)
 
 5 TASKS :-
 

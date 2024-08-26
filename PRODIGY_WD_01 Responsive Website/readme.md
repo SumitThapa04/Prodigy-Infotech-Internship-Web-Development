@@ -13,9 +13,6 @@ This HTML and CSS code outlines the structure and styling for a Fitness & Wellne
 ### Key Points:
 
 ### Responsive Navbar with Toggle:
-
-
-Responsive Navigation Bar: 
 Includes a hamburger menu for mobile view and smooth scrolling functionality for navigation links.
 
 ### Hero Section: 

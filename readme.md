@@ -12,7 +12,7 @@ OFFER LETTER:-
 
 TASK 1: RESPONSIVE LANDING PAGE
 
-WEBSITE: 
+WEBSITE: [https://fitandwellvibes.pages.dev/](https://fitandwellvibes.pages.dev/)
 
 ![1](https://github.com/user-attachments/assets/bdbeaa3c-7a63-4cc8-a971-24708475c4e6)
 

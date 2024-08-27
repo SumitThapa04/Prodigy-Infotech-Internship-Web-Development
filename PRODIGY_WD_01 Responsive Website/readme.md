@@ -2,7 +2,7 @@
 
 #### TASK 1  :  RESPONSIVE WEBSITE
 
-#### PAGE NAME : RESPONSIVE WEBSITE
+#### PAGE NAME : Fitness & Wellness
 
 #### WEBSITE: [https://fitandwellvibes.pages.dev/](https://fitandwellvibes.pages.dev/)
 
